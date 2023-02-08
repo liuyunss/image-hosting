@@ -1,2 +1,4 @@
-# skies-imanghosting
-skies的图床
+# skie的图床
+暂定存储图片
+- 按照项目名区分文件夹
+- 按照日期+编号 or 名称+编号命名
