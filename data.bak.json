@@ -1,0 +1,277 @@
+{
+  "picBed": {
+    "current": "gitee",
+    "uploader": "gitee",
+    "smms": {
+      "token": "",
+      "_configName": "Default",
+      "_id": "644c4dfe-894b-4559-a5dd-adb6d67a777a",
+      "_createdAt": 1752571733117,
+      "_updatedAt": 1752571733117
+    },
+    "gitee": {
+      "lastSync": "",
+      "repo": "theskies/image-hosting.git",
+      "branch": "master",
+      "token": "903acdf8b06f447e54aa266055654f7d",
+      "path": "img",
+      "customPath": "",
+      "customUrl": "",
+      "_configName": "piclist",
+      "_id": "b11c8464-4233-48fe-99ff-409994994821",
+      "_createdAt": 1752571438498,
+      "_updatedAt": 1754384564012
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": true
+      },
+      {
+        "type": "advancedplist",
+        "name": "高级自定义",
+        "visible": false
+      },
+      {
+        "type": "alistplist",
+        "name": "AList",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": true
+      },
+      {
+        "type": "aws-s3-plist",
+        "name": "AWS S3",
+        "visible": true
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": true
+      },
+      {
+        "type": "local",
+        "name": "本地上传",
+        "visible": true
+      },
+      {
+        "type": "lskyplist",
+        "name": "兰空图床",
+        "visible": false
+      },
+      {
+        "type": "piclist",
+        "name": "PicList",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "sftpplist",
+        "name": "内置SFTP",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": true
+      },
+      {
+        "type": "gitee",
+        "name": "gitee",
+        "visible": true
+      }
+    ],
+    "github": {
+      "_configName": "Default",
+      "_id": "9aa47cf4-468e-4546-b891-47dee6b0b5e9",
+      "_createdAt": 1754384664102,
+      "_updatedAt": 1754384664102
+    },
+    "aws-s3-plist": {
+      "_configName": "Default",
+      "_id": "b764d139-f76b-444e-b746-3cece48ba3ba",
+      "_createdAt": 1754384668117,
+      "_updatedAt": 1754384668117
+    },
+    "imgur": {
+      "_configName": "Default",
+      "_id": "9a47b665-141b-48b2-919d-e729a66f3848",
+      "_createdAt": 1754384669687,
+      "_updatedAt": 1754384669687
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "2a63d625-bb8b-4e60-ba23-de2154e4e744",
+      "_createdAt": 1754384671323,
+      "_updatedAt": 1754384671323
+    },
+    "local": {
+      "_configName": "Default",
+      "_id": "5295da83-86d5-40fa-8260-39adabe553ed",
+      "_createdAt": 1754384672322,
+      "_updatedAt": 1754384672322
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Alt+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": true
+    },
+    "isListeningClipboard": true,
+    "showUpdateTip": true,
+    "startMode": "quiet",
+    "isHideDock": true,
+    "autoStart": true,
+    "manualPageOpen": "browser",
+    "sync": {
+      "type": "gitee",
+      "username": "theskies",
+      "repo": "image-hosting",
+      "branch": "master",
+      "token": "903acdf8b06f447e54aa266055654f7d",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60,
+      "webdavEndpoint": "",
+      "webdavUsername": "",
+      "webdavPassword": "",
+      "webdavAuthType": "basic",
+      "webdavSslEnabled": true,
+      "webdavSavePath": ""
+    },
+    "autoRename": true,
+    "deleteLocalFile": false,
+    "customLink": "![$fileName]($url)",
+    "deleteCloudFile": true,
+    "isAutoListenClipboard": true,
+    "enableSecondUploader": false
+  },
+  "picgoPlugins": {
+    "picgo-plugin-gitee-uploader": true
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "uploader": {
+    "gitee": {
+      "configList": [
+        {
+          "lastSync": "",
+          "repo": "theskies/image-hosting.git",
+          "branch": "master",
+          "token": "903acdf8b06f447e54aa266055654f7d",
+          "path": "img",
+          "customPath": "",
+          "customUrl": "",
+          "_configName": "piclist",
+          "_id": "b11c8464-4233-48fe-99ff-409994994821",
+          "_createdAt": 1752571438498,
+          "_updatedAt": 1754384564012
+        }
+      ],
+      "defaultId": "b11c8464-4233-48fe-99ff-409994994821"
+    },
+    "smms": {
+      "configList": [
+        {
+          "token": "",
+          "_configName": "Default",
+          "_id": "644c4dfe-894b-4559-a5dd-adb6d67a777a",
+          "_createdAt": 1752571733117,
+          "_updatedAt": 1752571733117
+        }
+      ],
+      "defaultId": "644c4dfe-894b-4559-a5dd-adb6d67a777a"
+    },
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "9aa47cf4-468e-4546-b891-47dee6b0b5e9",
+          "_createdAt": 1754384664102,
+          "_updatedAt": 1754384664102
+        }
+      ],
+      "defaultId": "9aa47cf4-468e-4546-b891-47dee6b0b5e9"
+    },
+    "aws-s3-plist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "b764d139-f76b-444e-b746-3cece48ba3ba",
+          "_createdAt": 1754384668117,
+          "_updatedAt": 1754384668117
+        }
+      ],
+      "defaultId": "b764d139-f76b-444e-b746-3cece48ba3ba"
+    },
+    "imgur": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "9a47b665-141b-48b2-919d-e729a66f3848",
+          "_createdAt": 1754384669687,
+          "_updatedAt": 1754384669687
+        }
+      ],
+      "defaultId": "9a47b665-141b-48b2-919d-e729a66f3848"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "2a63d625-bb8b-4e60-ba23-de2154e4e744",
+          "_createdAt": 1754384671323,
+          "_updatedAt": 1754384671323
+        }
+      ],
+      "defaultId": "2a63d625-bb8b-4e60-ba23-de2154e4e744"
+    },
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "5295da83-86d5-40fa-8260-39adabe553ed",
+          "_createdAt": 1754384672322,
+          "_updatedAt": 1754384672322
+        }
+      ],
+      "defaultId": "5295da83-86d5-40fa-8260-39adabe553ed"
+    }
+  },
+  "picgo-plugin-gitee-uploader": {
+    "lastSync": "2025-08-26 04:32:34"
+  }
+}
